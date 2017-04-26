@@ -1,6 +1,6 @@
 # npmtest-generator-react-fullstack
 
-#### test coverage for  generator-react-fullstack (v0.1.18)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-react-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-react-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-react-fullstack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-react-fullstack)
+#### basic test coverage for  generator-react-fullstack (v0.1.18)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-react-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-react-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-react-fullstack.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-react-fullstack)
 
 #### Yeoman generator for React.js projects based on React Starter Kit (ES6+, Babel, React.js, Express, Webpack, BrowserSync)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-react-fullstack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-react-fullstack/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-react-fullstack/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-react-fullstack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-react-fullstack/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-react-fullstack/build/coverage.html/index.html)
 
@@ -91,7 +91,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.1.18"
+    "version": "0.1.18",
+    "bin": {}
 }
 ```
 
