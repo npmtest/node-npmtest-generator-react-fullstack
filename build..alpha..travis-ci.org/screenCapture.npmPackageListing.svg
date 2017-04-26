@@ -1,150 +1,150 @@
 <svg height="2350" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2350" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 01:30:49 +0000   164366 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 01:30:49 +0000     2563 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 01:30:49 +0000     1058 bytes  app/index.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 01:30:49 +0000     2910 bytes  package.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 01:30:49 +0000     2994 bytes  react-starter-kit/CHANGELOG.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 01:30:49 +0000     3179 bytes  react-starter-kit/CONTRIBUTING.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 01:30:49 +0000     1126 bytes  react-starter-kit/LICENSE.txt</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 01:30:49 +0000     6928 bytes  react-starter-kit/README.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 01:30:49 +0000      629 bytes  react-starter-kit/docs/README.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 01:30:49 +0000     1176 bytes  react-starter-kit/docs/data-fetching.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 01:30:49 +0000     4074 bytes  react-starter-kit/docs/getting-started.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 01:30:49 +0000     2742 bytes  react-starter-kit/docs/how-to-configure-text-edi\</tspan>
+<tspan x="10" y="26">  0.  2017-04-26 04:29:19 +0000   164366 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 04:29:19 +0000     2563 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 04:29:19 +0000     1058 bytes  app/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 04:29:19 +0000     2910 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 04:29:19 +0000     2994 bytes  react-starter-kit/CHANGELOG.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 04:29:19 +0000     3179 bytes  react-starter-kit/CONTRIBUTING.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 04:29:19 +0000     1126 bytes  react-starter-kit/LICENSE.txt</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 04:29:19 +0000     6928 bytes  react-starter-kit/README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 04:29:19 +0000      629 bytes  react-starter-kit/docs/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 04:29:19 +0000     1176 bytes  react-starter-kit/docs/data-fetching.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 04:29:19 +0000     4074 bytes  react-starter-kit/docs/getting-started.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 04:29:19 +0000     2742 bytes  react-starter-kit/docs/how-to-configure-text-edi\</tspan>
 <tspan x="10" y="218">tors.md</tspan>
-<tspan x="10" y="234"> 12.  2017-04-19 01:30:49 +0000     5671 bytes  react-starter-kit/docs/react-style-guide.md</tspan>
-<tspan x="10" y="250"> 13.  2017-04-19 01:30:49 +0000     4397 bytes  react-starter-kit/docs/recipes/how-to-implement-\</tspan>
+<tspan x="10" y="234"> 12.  2017-04-26 04:29:19 +0000     5671 bytes  react-starter-kit/docs/react-style-guide.md</tspan>
+<tspan x="10" y="250"> 13.  2017-04-26 04:29:19 +0000     4397 bytes  react-starter-kit/docs/recipes/how-to-implement-\</tspan>
 <tspan x="10" y="266">routing.md</tspan>
-<tspan x="10" y="282"> 14.  2017-04-19 01:30:49 +0000     1900 bytes  react-starter-kit/docs/recipes/how-to-integrate-\</tspan>
+<tspan x="10" y="282"> 14.  2017-04-26 04:29:19 +0000     1900 bytes  react-starter-kit/docs/recipes/how-to-integrate-\</tspan>
 <tspan x="10" y="298">disqus.md</tspan>
-<tspan x="10" y="314"> 15.  2017-04-19 01:30:49 +0000     2647 bytes  react-starter-kit/docs/recipes/using-npm-and-web\</tspan>
+<tspan x="10" y="314"> 15.  2017-04-26 04:29:19 +0000     2647 bytes  react-starter-kit/docs/recipes/using-npm-and-web\</tspan>
 <tspan x="10" y="330">pack-as-a-build-tool.md</tspan>
-<tspan x="10" y="346"> 16.  2017-04-19 01:30:49 +0000     3206 bytes  react-starter-kit/package.json</tspan>
-<tspan x="10" y="362"> 17.  2017-04-19 01:30:49 +0000     3782 bytes  react-starter-kit/src/client.js</tspan>
-<tspan x="10" y="378"> 18.  2017-04-19 01:30:49 +0000     1711 bytes  react-starter-kit/src/components/App/App.js</tspan>
-<tspan x="10" y="394"> 19.  2017-04-19 01:30:49 +0000     3057 bytes  react-starter-kit/src/components/App/App.scss</tspan>
-<tspan x="10" y="410"> 20.  2017-04-19 01:30:49 +0000      386 bytes  react-starter-kit/src/components/App/__tests__/A\</tspan>
+<tspan x="10" y="346"> 16.  2017-04-26 04:29:19 +0000     3206 bytes  react-starter-kit/package.json</tspan>
+<tspan x="10" y="362"> 17.  2017-04-26 04:29:19 +0000     3782 bytes  react-starter-kit/src/client.js</tspan>
+<tspan x="10" y="378"> 18.  2017-04-26 04:29:19 +0000     1711 bytes  react-starter-kit/src/components/App/App.js</tspan>
+<tspan x="10" y="394"> 19.  2017-04-26 04:29:19 +0000     3057 bytes  react-starter-kit/src/components/App/App.scss</tspan>
+<tspan x="10" y="410"> 20.  2017-04-26 04:29:19 +0000      386 bytes  react-starter-kit/src/components/App/__tests__/A\</tspan>
 <tspan x="10" y="426">pp-test.js</tspan>
-<tspan x="10" y="442"> 21.  2017-04-19 01:30:49 +0000       83 bytes  react-starter-kit/src/components/App/package.jso\</tspan>
+<tspan x="10" y="442"> 21.  2017-04-26 04:29:19 +0000       83 bytes  react-starter-kit/src/components/App/package.jso\</tspan>
 <tspan x="10" y="458">n</tspan>
-<tspan x="10" y="474"> 22.  2017-04-19 01:30:49 +0000     1083 bytes  react-starter-kit/src/components/ContentPage/Con\</tspan>
+<tspan x="10" y="474"> 22.  2017-04-26 04:29:19 +0000     1083 bytes  react-starter-kit/src/components/ContentPage/Con\</tspan>
 <tspan x="10" y="490">tentPage.js</tspan>
-<tspan x="10" y="506"> 23.  2017-04-19 01:30:49 +0000      412 bytes  react-starter-kit/src/components/ContentPage/Con\</tspan>
+<tspan x="10" y="506"> 23.  2017-04-26 04:29:19 +0000      412 bytes  react-starter-kit/src/components/ContentPage/Con\</tspan>
 <tspan x="10" y="522">tentPage.scss</tspan>
-<tspan x="10" y="538"> 24.  2017-04-19 01:30:49 +0000       99 bytes  react-starter-kit/src/components/ContentPage/pac\</tspan>
+<tspan x="10" y="538"> 24.  2017-04-26 04:29:19 +0000       99 bytes  react-starter-kit/src/components/ContentPage/pac\</tspan>
 <tspan x="10" y="554">kage.json</tspan>
-<tspan x="10" y="570"> 25.  2017-04-19 01:30:49 +0000      860 bytes  react-starter-kit/src/components/ErrorPage/Error\</tspan>
+<tspan x="10" y="570"> 25.  2017-04-26 04:29:19 +0000      860 bytes  react-starter-kit/src/components/ErrorPage/Error\</tspan>
 <tspan x="10" y="586">Page.js</tspan>
-<tspan x="10" y="602"> 26.  2017-04-19 01:30:49 +0000      798 bytes  react-starter-kit/src/components/ErrorPage/Error\</tspan>
+<tspan x="10" y="602"> 26.  2017-04-26 04:29:19 +0000      798 bytes  react-starter-kit/src/components/ErrorPage/Error\</tspan>
 <tspan x="10" y="618">Page.scss</tspan>
-<tspan x="10" y="634"> 27.  2017-04-19 01:30:49 +0000       95 bytes  react-starter-kit/src/components/ErrorPage/packa\</tspan>
+<tspan x="10" y="634"> 27.  2017-04-26 04:29:19 +0000       95 bytes  react-starter-kit/src/components/ErrorPage/packa\</tspan>
 <tspan x="10" y="650">ge.json</tspan>
-<tspan x="10" y="666"> 28.  2017-04-19 01:30:49 +0000      876 bytes  react-starter-kit/src/components/Feedback/Feedba\</tspan>
+<tspan x="10" y="666"> 28.  2017-04-26 04:29:19 +0000      876 bytes  react-starter-kit/src/components/Feedback/Feedba\</tspan>
 <tspan x="10" y="682">ck.js</tspan>
-<tspan x="10" y="698"> 29.  2017-04-19 01:30:49 +0000      721 bytes  react-starter-kit/src/components/Feedback/Feedba\</tspan>
+<tspan x="10" y="698"> 29.  2017-04-26 04:29:19 +0000      721 bytes  react-starter-kit/src/components/Feedback/Feedba\</tspan>
 <tspan x="10" y="714">ck.scss</tspan>
-<tspan x="10" y="730"> 30.  2017-04-19 01:30:49 +0000       93 bytes  react-starter-kit/src/components/Feedback/packag\</tspan>
+<tspan x="10" y="730"> 30.  2017-04-26 04:29:19 +0000       93 bytes  react-starter-kit/src/components/Feedback/packag\</tspan>
 <tspan x="10" y="746">e.json</tspan>
-<tspan x="10" y="762"> 31.  2017-04-19 01:30:49 +0000      952 bytes  react-starter-kit/src/components/Footer/Footer.j\</tspan>
+<tspan x="10" y="762"> 31.  2017-04-26 04:29:19 +0000      952 bytes  react-starter-kit/src/components/Footer/Footer.j\</tspan>
 <tspan x="10" y="778">s</tspan>
-<tspan x="10" y="794"> 32.  2017-04-19 01:30:49 +0000      866 bytes  react-starter-kit/src/components/Footer/Footer.s\</tspan>
+<tspan x="10" y="794"> 32.  2017-04-26 04:29:19 +0000      866 bytes  react-starter-kit/src/components/Footer/Footer.s\</tspan>
 <tspan x="10" y="810">css</tspan>
-<tspan x="10" y="826"> 33.  2017-04-19 01:30:49 +0000       89 bytes  react-starter-kit/src/components/Footer/package.\</tspan>
+<tspan x="10" y="826"> 33.  2017-04-26 04:29:19 +0000       89 bytes  react-starter-kit/src/components/Footer/package.\</tspan>
 <tspan x="10" y="842">json</tspan>
-<tspan x="10" y="858"> 34.  2017-04-19 01:30:49 +0000     1036 bytes  react-starter-kit/src/components/Header/Header.j\</tspan>
+<tspan x="10" y="858"> 34.  2017-04-26 04:29:19 +0000     1036 bytes  react-starter-kit/src/components/Header/Header.j\</tspan>
 <tspan x="10" y="874">s</tspan>
-<tspan x="10" y="890"> 35.  2017-04-19 01:30:49 +0000      948 bytes  react-starter-kit/src/components/Header/Header.s\</tspan>
+<tspan x="10" y="890"> 35.  2017-04-26 04:29:19 +0000      948 bytes  react-starter-kit/src/components/Header/Header.s\</tspan>
 <tspan x="10" y="906">css</tspan>
-<tspan x="10" y="922"> 36.  2017-04-19 01:30:49 +0000     2834 bytes  react-starter-kit/src/components/Header/logo-sma\</tspan>
+<tspan x="10" y="922"> 36.  2017-04-26 04:29:19 +0000     2834 bytes  react-starter-kit/src/components/Header/logo-sma\</tspan>
 <tspan x="10" y="938">ll.png</tspan>
-<tspan x="10" y="954"> 37.  2017-04-19 01:30:49 +0000     6806 bytes  react-starter-kit/src/components/Header/logo-sma\</tspan>
+<tspan x="10" y="954"> 37.  2017-04-26 04:29:19 +0000     6806 bytes  react-starter-kit/src/components/Header/logo-sma\</tspan>
 <tspan x="10" y="970">ll@2x.png</tspan>
-<tspan x="10" y="986"> 38.  2017-04-19 01:30:49 +0000       89 bytes  react-starter-kit/src/components/Header/package.\</tspan>
+<tspan x="10" y="986"> 38.  2017-04-26 04:29:19 +0000       89 bytes  react-starter-kit/src/components/Header/package.\</tspan>
 <tspan x="10" y="1002">json</tspan>
-<tspan x="10" y="1018"> 39.  2017-04-19 01:30:49 +0000     1565 bytes  react-starter-kit/src/components/Link/Link.js</tspan>
-<tspan x="10" y="1034"> 40.  2017-04-19 01:30:49 +0000       85 bytes  react-starter-kit/src/components/Link/package.js\</tspan>
+<tspan x="10" y="1018"> 39.  2017-04-26 04:29:19 +0000     1565 bytes  react-starter-kit/src/components/Link/Link.js</tspan>
+<tspan x="10" y="1034"> 40.  2017-04-26 04:29:19 +0000       85 bytes  react-starter-kit/src/components/Link/package.js\</tspan>
 <tspan x="10" y="1050">on</tspan>
-<tspan x="10" y="1066"> 41.  2017-04-19 01:30:49 +0000     1032 bytes  react-starter-kit/src/components/Navigation/Navi\</tspan>
+<tspan x="10" y="1066"> 41.  2017-04-26 04:29:19 +0000     1032 bytes  react-starter-kit/src/components/Navigation/Navi\</tspan>
 <tspan x="10" y="1082">gation.js</tspan>
-<tspan x="10" y="1098"> 42.  2017-04-19 01:30:49 +0000      788 bytes  react-starter-kit/src/components/Navigation/Navi\</tspan>
+<tspan x="10" y="1098"> 42.  2017-04-26 04:29:19 +0000      788 bytes  react-starter-kit/src/components/Navigation/Navi\</tspan>
 <tspan x="10" y="1114">gation.scss</tspan>
-<tspan x="10" y="1130"> 43.  2017-04-19 01:30:49 +0000       97 bytes  react-starter-kit/src/components/Navigation/pack\</tspan>
+<tspan x="10" y="1130"> 43.  2017-04-26 04:29:19 +0000       97 bytes  react-starter-kit/src/components/Navigation/pack\</tspan>
 <tspan x="10" y="1146">age.json</tspan>
-<tspan x="10" y="1162"> 44.  2017-04-19 01:30:49 +0000      925 bytes  react-starter-kit/src/components/NotFoundPage/No\</tspan>
+<tspan x="10" y="1162"> 44.  2017-04-26 04:29:19 +0000      925 bytes  react-starter-kit/src/components/NotFoundPage/No\</tspan>
 <tspan x="10" y="1178">tFoundPage.js</tspan>
-<tspan x="10" y="1194"> 45.  2017-04-19 01:30:49 +0000      796 bytes  react-starter-kit/src/components/NotFoundPage/No\</tspan>
+<tspan x="10" y="1194"> 45.  2017-04-26 04:29:19 +0000      796 bytes  react-starter-kit/src/components/NotFoundPage/No\</tspan>
 <tspan x="10" y="1210">tFoundPage.scss</tspan>
-<tspan x="10" y="1226"> 46.  2017-04-19 01:30:49 +0000      101 bytes  react-starter-kit/src/components/NotFoundPage/pa\</tspan>
+<tspan x="10" y="1226"> 46.  2017-04-26 04:29:19 +0000      101 bytes  react-starter-kit/src/components/NotFoundPage/pa\</tspan>
 <tspan x="10" y="1242">ckage.json</tspan>
-<tspan x="10" y="1258"> 47.  2017-04-19 01:30:49 +0000     1085 bytes  react-starter-kit/src/components/TextBox/TextBox\</tspan>
+<tspan x="10" y="1258"> 47.  2017-04-26 04:29:19 +0000     1085 bytes  react-starter-kit/src/components/TextBox/TextBox\</tspan>
 <tspan x="10" y="1274">.js</tspan>
-<tspan x="10" y="1290"> 48.  2017-04-19 01:30:49 +0000      295 bytes  react-starter-kit/src/components/TextBox/TextBox\</tspan>
+<tspan x="10" y="1290"> 48.  2017-04-26 04:29:19 +0000      295 bytes  react-starter-kit/src/components/TextBox/TextBox\</tspan>
 <tspan x="10" y="1306">.scss</tspan>
-<tspan x="10" y="1322"> 49.  2017-04-19 01:30:49 +0000       91 bytes  react-starter-kit/src/components/TextBox/package\</tspan>
+<tspan x="10" y="1322"> 49.  2017-04-26 04:29:19 +0000       91 bytes  react-starter-kit/src/components/TextBox/package\</tspan>
 <tspan x="10" y="1338">.json</tspan>
-<tspan x="10" y="1354"> 50.  2017-04-19 01:30:49 +0000     1343 bytes  react-starter-kit/src/components/variables.scss</tspan>
-<tspan x="10" y="1370"> 51.  2017-04-19 01:30:49 +0000     1930 bytes  react-starter-kit/src/components/withViewport.js</tspan>
-<tspan x="10" y="1386"> 52.  2017-04-19 01:30:49 +0000     1527 bytes  react-starter-kit/src/config.js</tspan>
-<tspan x="10" y="1402"> 53.  2017-04-19 01:30:49 +0000      340 bytes  react-starter-kit/src/constants/ActionTypes.js</tspan>
-<tspan x="10" y="1418"> 54.  2017-04-19 01:30:49 +0000     2879 bytes  react-starter-kit/src/content/about.jade</tspan>
-<tspan x="10" y="1434"> 55.  2017-04-19 01:30:49 +0000      776 bytes  react-starter-kit/src/content/index.jade</tspan>
-<tspan x="10" y="1450"> 56.  2017-04-19 01:30:49 +0000     2971 bytes  react-starter-kit/src/content/privacy.jade</tspan>
-<tspan x="10" y="1466"> 57.  2017-04-19 01:30:49 +0000      679 bytes  react-starter-kit/src/core/DOMUtils.js</tspan>
-<tspan x="10" y="1482"> 58.  2017-04-19 01:30:49 +0000      558 bytes  react-starter-kit/src/core/Location.js</tspan>
-<tspan x="10" y="1498"> 59.  2017-04-19 01:30:49 +0000     1929 bytes  react-starter-kit/src/core/db.js</tspan>
-<tspan x="10" y="1514"> 60.  2017-04-19 01:30:49 +0000      438 bytes  react-starter-kit/src/core/fetch/fetch.client.js</tspan>
-<tspan x="10" y="1530"> 61.  2017-04-19 01:30:49 +0000      768 bytes  react-starter-kit/src/core/fetch/fetch.server.js</tspan>
-<tspan x="10" y="1546"> 62.  2017-04-19 01:30:49 +0000      106 bytes  react-starter-kit/src/core/fetch/package.json</tspan>
-<tspan x="10" y="1562"> 63.  2017-04-19 01:30:49 +0000     4316 bytes  react-starter-kit/src/core/passport.js</tspan>
-<tspan x="10" y="1578"> 64.  2017-04-19 01:30:49 +0000     2693 bytes  react-starter-kit/src/data/queries/content.js</tspan>
-<tspan x="10" y="1594"> 65.  2017-04-19 01:30:49 +0000      486 bytes  react-starter-kit/src/data/queries/me.js</tspan>
-<tspan x="10" y="1610"> 66.  2017-04-19 01:30:49 +0000     1312 bytes  react-starter-kit/src/data/queries/news.js</tspan>
-<tspan x="10" y="1626"> 67.  2017-04-19 01:30:49 +0000      626 bytes  react-starter-kit/src/data/schema.js</tspan>
-<tspan x="10" y="1642"> 68.  2017-04-19 01:30:49 +0000      681 bytes  react-starter-kit/src/data/types/ContentType.js</tspan>
-<tspan x="10" y="1658"> 69.  2017-04-19 01:30:49 +0000      716 bytes  react-starter-kit/src/data/types/NewsItemType.js</tspan>
-<tspan x="10" y="1674"> 70.  2017-04-19 01:30:49 +0000      570 bytes  react-starter-kit/src/data/types/UserType.js</tspan>
-<tspan x="10" y="1690"> 71.  2017-04-19 01:30:49 +0000     4124 bytes  react-starter-kit/src/public/apple-touch-icon.pn\</tspan>
+<tspan x="10" y="1354"> 50.  2017-04-26 04:29:19 +0000     1343 bytes  react-starter-kit/src/components/variables.scss</tspan>
+<tspan x="10" y="1370"> 51.  2017-04-26 04:29:19 +0000     1930 bytes  react-starter-kit/src/components/withViewport.js</tspan>
+<tspan x="10" y="1386"> 52.  2017-04-26 04:29:19 +0000     1527 bytes  react-starter-kit/src/config.js</tspan>
+<tspan x="10" y="1402"> 53.  2017-04-26 04:29:19 +0000      340 bytes  react-starter-kit/src/constants/ActionTypes.js</tspan>
+<tspan x="10" y="1418"> 54.  2017-04-26 04:29:19 +0000     2879 bytes  react-starter-kit/src/content/about.jade</tspan>
+<tspan x="10" y="1434"> 55.  2017-04-26 04:29:19 +0000      776 bytes  react-starter-kit/src/content/index.jade</tspan>
+<tspan x="10" y="1450"> 56.  2017-04-26 04:29:19 +0000     2971 bytes  react-starter-kit/src/content/privacy.jade</tspan>
+<tspan x="10" y="1466"> 57.  2017-04-26 04:29:19 +0000      679 bytes  react-starter-kit/src/core/DOMUtils.js</tspan>
+<tspan x="10" y="1482"> 58.  2017-04-26 04:29:19 +0000      558 bytes  react-starter-kit/src/core/Location.js</tspan>
+<tspan x="10" y="1498"> 59.  2017-04-26 04:29:19 +0000     1929 bytes  react-starter-kit/src/core/db.js</tspan>
+<tspan x="10" y="1514"> 60.  2017-04-26 04:29:19 +0000      438 bytes  react-starter-kit/src/core/fetch/fetch.client.js</tspan>
+<tspan x="10" y="1530"> 61.  2017-04-26 04:29:19 +0000      768 bytes  react-starter-kit/src/core/fetch/fetch.server.js</tspan>
+<tspan x="10" y="1546"> 62.  2017-04-26 04:29:19 +0000      106 bytes  react-starter-kit/src/core/fetch/package.json</tspan>
+<tspan x="10" y="1562"> 63.  2017-04-26 04:29:19 +0000     4316 bytes  react-starter-kit/src/core/passport.js</tspan>
+<tspan x="10" y="1578"> 64.  2017-04-26 04:29:19 +0000     2693 bytes  react-starter-kit/src/data/queries/content.js</tspan>
+<tspan x="10" y="1594"> 65.  2017-04-26 04:29:19 +0000      486 bytes  react-starter-kit/src/data/queries/me.js</tspan>
+<tspan x="10" y="1610"> 66.  2017-04-26 04:29:19 +0000     1312 bytes  react-starter-kit/src/data/queries/news.js</tspan>
+<tspan x="10" y="1626"> 67.  2017-04-26 04:29:19 +0000      626 bytes  react-starter-kit/src/data/schema.js</tspan>
+<tspan x="10" y="1642"> 68.  2017-04-26 04:29:19 +0000      681 bytes  react-starter-kit/src/data/types/ContentType.js</tspan>
+<tspan x="10" y="1658"> 69.  2017-04-26 04:29:19 +0000      716 bytes  react-starter-kit/src/data/types/NewsItemType.js</tspan>
+<tspan x="10" y="1674"> 70.  2017-04-26 04:29:19 +0000      570 bytes  react-starter-kit/src/data/types/UserType.js</tspan>
+<tspan x="10" y="1690"> 71.  2017-04-26 04:29:19 +0000     4124 bytes  react-starter-kit/src/public/apple-touch-icon.pn\</tspan>
 <tspan x="10" y="1706">g</tspan>
-<tspan x="10" y="1722"> 72.  2017-04-19 01:30:49 +0000      416 bytes  react-starter-kit/src/public/browserconfig.xml</tspan>
-<tspan x="10" y="1738"> 73.  2017-04-19 01:30:49 +0000      611 bytes  react-starter-kit/src/public/crossdomain.xml</tspan>
-<tspan x="10" y="1754"> 74.  2017-04-19 01:30:49 +0000      766 bytes  react-starter-kit/src/public/favicon.ico</tspan>
-<tspan x="10" y="1770"> 75.  2017-04-19 01:30:49 +0000      209 bytes  react-starter-kit/src/public/humans.txt</tspan>
-<tspan x="10" y="1786"> 76.  2017-04-19 01:30:49 +0000       78 bytes  react-starter-kit/src/public/robots.txt</tspan>
-<tspan x="10" y="1802"> 77.  2017-04-19 01:30:49 +0000     4856 bytes  react-starter-kit/src/public/tile-wide.png</tspan>
-<tspan x="10" y="1818"> 78.  2017-04-19 01:30:49 +0000     9854 bytes  react-starter-kit/src/public/tile.png</tspan>
-<tspan x="10" y="1834"> 79.  2017-04-19 01:30:49 +0000     1476 bytes  react-starter-kit/src/routes.js</tspan>
-<tspan x="10" y="1850"> 80.  2017-04-19 01:30:49 +0000      685 bytes  react-starter-kit/src/routes/contact/Contact.js</tspan>
-<tspan x="10" y="1866"> 81.  2017-04-19 01:30:49 +0000      450 bytes  react-starter-kit/src/routes/contact/Contact.scs\</tspan>
+<tspan x="10" y="1722"> 72.  2017-04-26 04:29:19 +0000      416 bytes  react-starter-kit/src/public/browserconfig.xml</tspan>
+<tspan x="10" y="1738"> 73.  2017-04-26 04:29:19 +0000      611 bytes  react-starter-kit/src/public/crossdomain.xml</tspan>
+<tspan x="10" y="1754"> 74.  2017-04-26 04:29:19 +0000      766 bytes  react-starter-kit/src/public/favicon.ico</tspan>
+<tspan x="10" y="1770"> 75.  2017-04-26 04:29:19 +0000      209 bytes  react-starter-kit/src/public/humans.txt</tspan>
+<tspan x="10" y="1786"> 76.  2017-04-26 04:29:19 +0000       78 bytes  react-starter-kit/src/public/robots.txt</tspan>
+<tspan x="10" y="1802"> 77.  2017-04-26 04:29:19 +0000     4856 bytes  react-starter-kit/src/public/tile-wide.png</tspan>
+<tspan x="10" y="1818"> 78.  2017-04-26 04:29:19 +0000     9854 bytes  react-starter-kit/src/public/tile.png</tspan>
+<tspan x="10" y="1834"> 79.  2017-04-26 04:29:19 +0000     1476 bytes  react-starter-kit/src/routes.js</tspan>
+<tspan x="10" y="1850"> 80.  2017-04-26 04:29:19 +0000      685 bytes  react-starter-kit/src/routes/contact/Contact.js</tspan>
+<tspan x="10" y="1866"> 81.  2017-04-26 04:29:19 +0000      450 bytes  react-starter-kit/src/routes/contact/Contact.scs\</tspan>
 <tspan x="10" y="1882">s</tspan>
-<tspan x="10" y="1898"> 82.  2017-04-19 01:30:49 +0000      501 bytes  react-starter-kit/src/routes/contact/index.js</tspan>
-<tspan x="10" y="1914"> 83.  2017-04-19 01:30:49 +0000     1217 bytes  react-starter-kit/src/routes/home/Home.js</tspan>
-<tspan x="10" y="1930"> 84.  2017-04-19 01:30:49 +0000      621 bytes  react-starter-kit/src/routes/home/Home.scss</tspan>
-<tspan x="10" y="1946"> 85.  2017-04-19 01:30:49 +0000      639 bytes  react-starter-kit/src/routes/home/index.js</tspan>
-<tspan x="10" y="1962"> 86.  2017-04-19 01:30:49 +0000      677 bytes  react-starter-kit/src/routes/login/Login.js</tspan>
-<tspan x="10" y="1978"> 87.  2017-04-19 01:30:49 +0000      450 bytes  react-starter-kit/src/routes/login/Login.scss</tspan>
-<tspan x="10" y="1994"> 88.  2017-04-19 01:30:49 +0000      489 bytes  react-starter-kit/src/routes/login/index.js</tspan>
-<tspan x="10" y="2010"> 89.  2017-04-19 01:30:49 +0000      689 bytes  react-starter-kit/src/routes/register/Register.j\</tspan>
+<tspan x="10" y="1898"> 82.  2017-04-26 04:29:19 +0000      501 bytes  react-starter-kit/src/routes/contact/index.js</tspan>
+<tspan x="10" y="1914"> 83.  2017-04-26 04:29:19 +0000     1217 bytes  react-starter-kit/src/routes/home/Home.js</tspan>
+<tspan x="10" y="1930"> 84.  2017-04-26 04:29:19 +0000      621 bytes  react-starter-kit/src/routes/home/Home.scss</tspan>
+<tspan x="10" y="1946"> 85.  2017-04-26 04:29:19 +0000      639 bytes  react-starter-kit/src/routes/home/index.js</tspan>
+<tspan x="10" y="1962"> 86.  2017-04-26 04:29:19 +0000      677 bytes  react-starter-kit/src/routes/login/Login.js</tspan>
+<tspan x="10" y="1978"> 87.  2017-04-26 04:29:19 +0000      450 bytes  react-starter-kit/src/routes/login/Login.scss</tspan>
+<tspan x="10" y="1994"> 88.  2017-04-26 04:29:19 +0000      489 bytes  react-starter-kit/src/routes/login/index.js</tspan>
+<tspan x="10" y="2010"> 89.  2017-04-26 04:29:19 +0000      689 bytes  react-starter-kit/src/routes/register/Register.j\</tspan>
 <tspan x="10" y="2026">s</tspan>
-<tspan x="10" y="2042"> 90.  2017-04-19 01:30:49 +0000      450 bytes  react-starter-kit/src/routes/register/Register.s\</tspan>
+<tspan x="10" y="2042"> 90.  2017-04-26 04:29:19 +0000      450 bytes  react-starter-kit/src/routes/register/Register.s\</tspan>
 <tspan x="10" y="2058">css</tspan>
-<tspan x="10" y="2074"> 91.  2017-04-19 01:30:49 +0000      516 bytes  react-starter-kit/src/routes/register/index.js</tspan>
-<tspan x="10" y="2090"> 92.  2017-04-19 01:30:49 +0000     4413 bytes  react-starter-kit/src/server.js</tspan>
-<tspan x="10" y="2106"> 93.  2017-04-19 01:30:49 +0000     1177 bytes  react-starter-kit/src/views/error.jade</tspan>
-<tspan x="10" y="2122"> 94.  2017-04-19 01:30:49 +0000      661 bytes  react-starter-kit/src/views/index.jade</tspan>
-<tspan x="10" y="2138"> 95.  2017-04-19 01:30:49 +0000       58 bytes  react-starter-kit/test/stubs/SCSSStub.js</tspan>
-<tspan x="10" y="2154"> 96.  2017-04-19 01:30:49 +0000     1656 bytes  react-starter-kit/tools/README.md</tspan>
-<tspan x="10" y="2170"> 97.  2017-04-19 01:30:49 +0000      611 bytes  react-starter-kit/tools/build.js</tspan>
-<tspan x="10" y="2186"> 98.  2017-04-19 01:30:49 +0000      693 bytes  react-starter-kit/tools/bundle.js</tspan>
-<tspan x="10" y="2202"> 99.  2017-04-19 01:30:49 +0000      515 bytes  react-starter-kit/tools/clean.js</tspan>
-<tspan x="10" y="2218">100.  2017-04-19 01:30:49 +0000     1282 bytes  react-starter-kit/tools/copy.js</tspan>
-<tspan x="10" y="2234">101.  2017-04-19 01:30:49 +0000     1934 bytes  react-starter-kit/tools/deploy.js</tspan>
-<tspan x="10" y="2250">102.  2017-04-19 01:30:49 +0000      426 bytes  react-starter-kit/tools/lib/fetch.js</tspan>
-<tspan x="10" y="2266">103.  2017-04-19 01:30:49 +0000      629 bytes  react-starter-kit/tools/lib/fs.js</tspan>
-<tspan x="10" y="2282">104.  2017-04-19 01:30:49 +0000      999 bytes  react-starter-kit/tools/run.js</tspan>
-<tspan x="10" y="2298">105.  2017-04-19 01:30:49 +0000     1545 bytes  react-starter-kit/tools/runServer.js</tspan>
-<tspan x="10" y="2314">106.  2017-04-19 01:30:49 +0000     3673 bytes  react-starter-kit/tools/start.js</tspan>
-<tspan x="10" y="2330">107.  2017-04-19 01:30:49 +0000     4940 bytes  react-starter-kit/tools/webpack.config.js</tspan>
+<tspan x="10" y="2074"> 91.  2017-04-26 04:29:19 +0000      516 bytes  react-starter-kit/src/routes/register/index.js</tspan>
+<tspan x="10" y="2090"> 92.  2017-04-26 04:29:19 +0000     4413 bytes  react-starter-kit/src/server.js</tspan>
+<tspan x="10" y="2106"> 93.  2017-04-26 04:29:19 +0000     1177 bytes  react-starter-kit/src/views/error.jade</tspan>
+<tspan x="10" y="2122"> 94.  2017-04-26 04:29:19 +0000      661 bytes  react-starter-kit/src/views/index.jade</tspan>
+<tspan x="10" y="2138"> 95.  2017-04-26 04:29:19 +0000       58 bytes  react-starter-kit/test/stubs/SCSSStub.js</tspan>
+<tspan x="10" y="2154"> 96.  2017-04-26 04:29:19 +0000     1656 bytes  react-starter-kit/tools/README.md</tspan>
+<tspan x="10" y="2170"> 97.  2017-04-26 04:29:19 +0000      611 bytes  react-starter-kit/tools/build.js</tspan>
+<tspan x="10" y="2186"> 98.  2017-04-26 04:29:19 +0000      693 bytes  react-starter-kit/tools/bundle.js</tspan>
+<tspan x="10" y="2202"> 99.  2017-04-26 04:29:19 +0000      515 bytes  react-starter-kit/tools/clean.js</tspan>
+<tspan x="10" y="2218">100.  2017-04-26 04:29:19 +0000     1282 bytes  react-starter-kit/tools/copy.js</tspan>
+<tspan x="10" y="2234">101.  2017-04-26 04:29:19 +0000     1934 bytes  react-starter-kit/tools/deploy.js</tspan>
+<tspan x="10" y="2250">102.  2017-04-26 04:29:19 +0000      426 bytes  react-starter-kit/tools/lib/fetch.js</tspan>
+<tspan x="10" y="2266">103.  2017-04-26 04:29:19 +0000      629 bytes  react-starter-kit/tools/lib/fs.js</tspan>
+<tspan x="10" y="2282">104.  2017-04-26 04:29:19 +0000      999 bytes  react-starter-kit/tools/run.js</tspan>
+<tspan x="10" y="2298">105.  2017-04-26 04:29:19 +0000     1545 bytes  react-starter-kit/tools/runServer.js</tspan>
+<tspan x="10" y="2314">106.  2017-04-26 04:29:19 +0000     3673 bytes  react-starter-kit/tools/start.js</tspan>
+<tspan x="10" y="2330">107.  2017-04-26 04:29:19 +0000     4940 bytes  react-starter-kit/tools/webpack.config.js</tspan>
 </text>
 </svg>
